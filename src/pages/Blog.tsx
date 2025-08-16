@@ -18,7 +18,7 @@ const SAMPLE_POSTS: BlogPost[] = [
   {
     id: 1,
     title: "The Future of AI in Software Development",
-    excerpt: "Explore how artificial intelligence is revolutionizing the way we write and maintain code.",
+    excerpt: "Explore how artificial intelligence is revolutionizing the way we write and maintain code timely.",
     date: "2025-08-15",
     category: "Artificial Intelligence",
     readingTime: "5 min read",
