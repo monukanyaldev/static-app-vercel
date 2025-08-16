@@ -45,7 +45,7 @@ const Home = () => {
               className="text-center max-w-4xl"
             >
               <h1 className="text-6xl md:text-7xl font-bold mb-8 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-                Innovate. Create. Transform.
+                Innovate. Create. Build.
               </h1>
               <p className="text-xl md:text-2xl text-gray-200 mb-12">
                 Empowering the future through cutting-edge technology solutions
